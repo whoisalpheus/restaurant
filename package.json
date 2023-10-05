@@ -1,0 +1,23 @@
+{
+  "name": "restaurant",
+  "version": "1.0.0",
+  "description": "Restaurant Page project via Odin Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whoisalpheus/restaurant.git"
+  },
+  "author": "alpheus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whoisalpheus/restaurant/issues"
+  },
+  "homepage": "https://github.com/whoisalpheus/restaurant#readme",
+  "devDependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
