@@ -1,5 +1,7 @@
-import * as module from './content.js';
+import { content } from './content.js';
+import { homeContent } from './home.js';
+import { menuContent } from './menu.js';
+import { infoContent } from './info.js';
 import './style.css';
 
-module.content();
 console.log('Hello World');
